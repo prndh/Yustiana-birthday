@@ -11,12 +11,12 @@ import { motion } from 'framer-motion';
 
 const playlist = [
   {
-    title: 'Monolog',
+    title: 'monolog',
     artist: 'Pamungkas',
     src: '/music/monolog.mp3',
   },
   {
-    title: 'Kita buat menyenangkan',
+    title: 'kita buat menyenangkan',
     artist: 'Bernadya',
     src: '/music/kita-buat-menyenangkan.mp3',
   },
