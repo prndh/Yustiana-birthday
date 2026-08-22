@@ -16,7 +16,7 @@ const playlist = [
     src: '/music/monolog.mp3',
   },
   {
-    title: 'Kita Buat Menyenangkan',
+    title: 'Kita buat menyenangkan',
     artist: 'Bernadya',
     src: '/music/kita-buat-menyenangkan.mp3',
   },
