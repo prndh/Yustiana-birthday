@@ -68,7 +68,7 @@ export default function Home() {
       {/* Musik background */}
       <audio
         ref={audioRef}
-        src="/music/monolog.mp3"
+        src="/music/Monolog.mp3"
         loop
         preload="auto"
       />
