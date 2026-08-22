@@ -10,7 +10,7 @@ const photos = [
   },
   {
     image: '/photo2.jpg',
-    caption: 'Just us, coffee, and another day I had happily repeat',
+    caption: 'Just us, coffee,and another day I had happily repeat',
     rotate: 3,
   },
   {
